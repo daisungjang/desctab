@@ -17,7 +17,7 @@ desctab(x)
 **Step 2:** Replace x with the name of your dataset.
 
 # EXAMPLE:
-In this example, we will work with ‘trees’  – a built-in dataset in R. This dataset includes the girth, height, and volume of 31 felled black cherry trees.
+_In this example, we will work with ‘trees’  – a built-in dataset in R. This dataset includes the girth, height, and volume of 31 felled black cherry trees._
 
 trees 
 
