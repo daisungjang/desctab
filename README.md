@@ -8,7 +8,7 @@ Desctab is an R function used to rapidly generate a readily publishable correlat
 
 require(RCurl)
 
-desctab_url <-source("https://raw.githubusercontent.com/daisungjang/desctab/main/desctab.0.10.R")
+desctab_url <-source("https://raw.githubusercontent.com/daisungjang/desctab/main/desctab.R")
 
 eval(parse(text = getURL(desctab_url, ssl.verifypeer = FALSE)), envir=.GlobalEnv)
 
