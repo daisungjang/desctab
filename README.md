@@ -16,8 +16,8 @@ Desctab is an R function that can quickly generate a publishable correlation tab
  
 **Step 2:** Replace x with the name of your dataset.
 
-# EXAMPLE:
-In this example, we will work with ‘trees’  – a built-in dataset in R. This dataset includes the girth, height, and volume of 31 felled black cherry trees.
+# Example:
+In this example, we will work with ‘trees’ – a built-in dataset in R. This dataset includes the girth, height, and volume of 31 felled black cherry trees.
 
 > trees 
 > 
