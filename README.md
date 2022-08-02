@@ -1,7 +1,7 @@
 # desctab
 
 # About desctab:
-Desctab is an R function that can quickly generate a publishable correlation table. Desctab is user-friendly and helps writers save significant time editing a correlation table for publications. A major advantage of desctab is that users can supply their own filename, and the output will be an excel file in the working directory with a file name that includes the current time. 
+Desctab is an R function that can quickly generate a publishable correlation table. Desctab is user-friendly and helps writers save significant time editing a correlation table for publications. A major advantage of desctab is that users can supply their own filename, and the output will be an Excel file in the working directory with a file name that includes the current time. 
 
 # How to use desctab:
 **Step 1:** Copy and paste the following R script:
@@ -29,7 +29,7 @@ In this example, we will work with ‘trees’ – a built-in dataset in R. This
 > 
 > desctab(trees)
 
-An excel table should be generated as the following as a result.
+An Excel file should be generated with the following as a result.
 
 <img width="451" alt="Picture1" src="https://user-images.githubusercontent.com/105834006/182022454-360d80a0-1809-43e2-bc17-19ca046b5bbd.png">
 
