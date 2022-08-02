@@ -1,7 +1,7 @@
 desctab <- function(x, y){
   
 if(missing(y)) {
-    y = paste("Descriptive_", strftime(as.POSIXlt(Sys.time()) , "%Y-%m-%d | %H.%M"), ".xlsx", sep = "" )
+    y = paste("Descriptives_", strftime(as.POSIXlt(Sys.time()) , "%Y-%m-%d | %H.%M"), ".xlsx", sep = "" )
   } else {
   }
   
