@@ -7,8 +7,11 @@ Desctab is an R function that can quickly generate a publishable correlation tab
 **Step 1:** Copy and paste the following R script:
 
 > require(RCurl)
+> 
 > desctab_url <-source("https://raw.githubusercontent.com/daisungjang/desctab/main/desctab.R")
+> 
 > eval(parse(text = getURL(desctab_url, ssl.verifypeer = FALSE)), envir=.GlobalEnv)
+> 
 > desctab(x)
  
 **Step 2:** Replace x with the name of your dataset.
@@ -17,9 +20,13 @@ Desctab is an R function that can quickly generate a publishable correlation tab
 In this example, we will work with ‘trees’  – a built-in dataset in R. This dataset includes the girth, height, and volume of 31 felled black cherry trees.
 
 > trees 
+> 
 > require(RCurl)
+> 
 > desctab_url <- source("https://raw.githubusercontent.com/daisungjang/desctab/main/desctab.R")
+> 
 > eval(parse(text = getURL(desctab_url, ssl.verifypeer = FALSE)), envir=.GlobalEnv)
+> 
 > desctab(trees)
 
 An excel table should be generated as the following as a result.
