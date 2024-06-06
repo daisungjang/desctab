@@ -33,4 +33,8 @@ An Excel file should be generated with the following as a result.
 
 <img width="451" alt="Picture1" src="https://user-images.githubusercontent.com/105834006/182022454-360d80a0-1809-43e2-bc17-19ca046b5bbd.png">
 
+# Shiny app:
+
+Desctab is now available as a Shiny app: <a href = "https://ha2ifp-daisung-jang.shinyapps.io/desctab/">https://ha2ifp-daisung-jang.shinyapps.io/desctab/</a>
+
 Daisung Jang and Dai Le
