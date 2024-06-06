@@ -37,4 +37,6 @@ An Excel file should be generated with the following as a result.
 
 Desctab is now available as a Shiny app: <a href = "https://ha2ifp-daisung-jang.shinyapps.io/desctab/">https://ha2ifp-daisung-jang.shinyapps.io/desctab/</a>
 
+<a href="https://zenodo.org/doi/10.5281/zenodo.11498389"><img src="https://zenodo.org/badge/493531345.svg" alt="DOI"></a>
+
 Daisung Jang and Dai Le
